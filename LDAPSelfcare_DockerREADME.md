@@ -48,7 +48,7 @@ docker container exec -it ldapselfcare /bin/bash
 Press exit to exit the container bash
 
 9) You can now access the application on :
-http://hostname:81/LDAPSelfCare/
+http://<hostname>:81/LDAPSelfCare/
 
 
 10) You can check the logs of application by command
